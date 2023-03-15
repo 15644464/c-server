@@ -1,0 +1,10 @@
+F:\UnityData\fwq\异步服务器\Protocol\bin\Debug\Protocol.dll
+F:\UnityData\fwq\异步服务器\Protocol\bin\Debug\Protocol.pdb
+F:\UnityData\fwq\异步服务器\Protocol\obj\Debug\Protocol.csproj.AssemblyReference.cache
+F:\UnityData\fwq\异步服务器\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+F:\UnityData\fwq\异步服务器\Protocol\obj\Debug\Protocol.dll
+F:\UnityData\fwq\异步服务器\Protocol\obj\Debug\Protocol.pdb
+F:\UnityData\test\Assets\Plugns\Protocol.dll
+F:\UnityData\test\Assets\Plugns\Protocol.pdb
+F:\UnityData\OnlineGames\Assets\Plugns\Protocol.dll
+F:\UnityData\OnlineGames\Assets\Plugns\Protocol.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "异步服务器", "异步服务器\异步服务器.csproj", "{A8268F88-0F04-4516-A501-C84E932EBDD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocol", "Protocol\Protocol.csproj", "{4687FD15-84DD-409D-B088-5E7111663891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8268F88-0F04-4516-A501-C84E932EBDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8268F88-0F04-4516-A501-C84E932EBDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8268F88-0F04-4516-A501-C84E932EBDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8268F88-0F04-4516-A501-C84E932EBDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4687FD15-84DD-409D-B088-5E7111663891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4687FD15-84DD-409D-B088-5E7111663891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4687FD15-84DD-409D-B088-5E7111663891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4687FD15-84DD-409D-B088-5E7111663891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09782B9D-17A2-4BC1-ABFE-D1F9D115FA79}
+	EndGlobalSection
+EndGlobal

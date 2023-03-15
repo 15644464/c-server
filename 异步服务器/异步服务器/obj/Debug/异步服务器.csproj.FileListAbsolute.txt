@@ -1,0 +1,15 @@
+F:\UnityData\fwq\异步服务器\异步服务器\bin\Debug\异步服务器.exe.config
+F:\UnityData\fwq\异步服务器\异步服务器\bin\Debug\异步服务器.exe
+F:\UnityData\fwq\异步服务器\异步服务器\bin\Debug\异步服务器.pdb
+F:\UnityData\fwq\异步服务器\异步服务器\obj\Debug\异步服务器.csproj.CoreCompileInputs.cache
+F:\UnityData\fwq\异步服务器\异步服务器\obj\Debug\异步服务器.exe
+F:\UnityData\fwq\异步服务器\异步服务器\obj\Debug\异步服务器.pdb
+F:\UnityData\fwq\异步服务器\异步服务器\obj\Debug\异步服务器.csproj.AssemblyReference.cache
+F:\UnityData\fwq\异步服务器\异步服务器\bin\Debug\Protocol.dll
+F:\UnityData\fwq\异步服务器\异步服务器\obj\Debug\异步服务器.csproj.CopyComplete
+F:\UnityData\fwq\异步服务器\异步服务器\bin\Debug\MySql.Data.dll
+F:\UnityData\fwq\异步服务器\异步服务器\bin\Debug\System.Memory.dll
+F:\UnityData\fwq\异步服务器\异步服务器\bin\Debug\System.Buffers.dll
+F:\UnityData\fwq\异步服务器\异步服务器\bin\Debug\System.Numerics.Vectors.dll
+F:\UnityData\fwq\异步服务器\异步服务器\obj\Debug\异步服务器.exe.config
+F:\UnityData\fwq\异步服务器\异步服务器\bin\Debug\Protocol.pdb
